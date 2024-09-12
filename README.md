@@ -12,6 +12,6 @@ Pour utiliser le site, il faut installer sur votre machine :
 ## Demarrage
 Il faut tout d'abord aller sur le dossier du site et ensuite avec un terminal utiliser la commande pour demarrer le site
 
-'''
+````
 php artisan serve
-'''
+````
