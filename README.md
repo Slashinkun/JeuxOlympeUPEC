@@ -3,8 +3,7 @@
 ## Description
 Projet de L2 Informatique
 
-Le site est une simulation du site de billeterie des Jeux Olympiques. Il est composé d'une page billeterie,calendrier et un tableau de commande Admin.
-Il utilise le framework web Laravel : https://laravel.com/
+Le site est une simulation du site de billetterie des Jeux Olympiques. Il est composé d'une page billetterie, d'un calendrier et d'un tableau de commande Admin. Il utilise le framework Laravel pour son développement : https://laravel.com/
 
 ## Pré-requis
 Pour utiliser le site, il faut installer sur votre machine :
