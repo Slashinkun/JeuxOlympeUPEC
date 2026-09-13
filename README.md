@@ -12,7 +12,9 @@ Pour utiliser le site, il faut installer sur votre machine :
 - PHP https://www.php.net/downloads
 
 ## Mode d'emploi
-Aller sur le dossier du site dans un terminal puis utiliser la commande pour demarrer le site :
+
+
+Depuis un terminal, aller sur le dossier du site puis lancer la commande pour demarrer le site :
 
 ````
 php artisan serve
